@@ -9,7 +9,7 @@
    cd Tugas-2-Kecerdasan-Artifisial-2208107010054
 4. Jalankan TensorBoard
    ```bash
-   tensorboard --logdir=Tensornoard_logs
+   tensorboard --logdir=Tensorboard_logs
 6. Buka di browser http://localhost:6006
 
 
