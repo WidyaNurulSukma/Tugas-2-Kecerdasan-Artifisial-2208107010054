@@ -5,9 +5,11 @@
    ```bash
    git clone https://github.com/WidyaNurulSukma/Tugas-2-Kecerdasan-Artifisial-2208107010054.git
 2. Nafigasi ke folder Tensorboard_logs
+   ```bash
    cd Tugas-2-Kecerdasan-Artifisial-2208107010054
-3. Jalankan TensorBoard
+4. Jalankan TensorBoard
+   ```bash
    tensorboard --logdir=Tensornoard_logs
-4. Buka di browser http://localhost:6006
+6. Buka di browser http://localhost:6006
 
 
